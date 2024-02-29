@@ -1,4 +1,4 @@
-module github.com/joelrose/gosseract
+module github.com/rubiojr/gosseract
 
 go 1.18
 
